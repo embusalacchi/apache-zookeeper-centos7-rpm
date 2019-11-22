@@ -27,7 +27,7 @@ Zookeeper shell is available via /usr/local/bin/zkcli or just zkcli since /usr/l
 
 Default locations
 -----------------
-binaries: /opt/zookeeper  
+binaries: /opt/zookeeper/lib  
 data:     /var/lib/zookeeper  
 logs:     /var/log/zookeeper  
 configs:  /etc/zookeeper, /etc/sysconfig/zookeeper  
